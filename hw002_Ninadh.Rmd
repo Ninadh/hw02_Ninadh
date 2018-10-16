@@ -2,7 +2,7 @@
 title: "hw_02_Ninadh"
 author: "Ninadh"
 date: "September 25, 2018"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
